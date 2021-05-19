@@ -71,6 +71,7 @@ h1{
 @media(max-width: 768px){
     body{
         height: 100%;
+        padding: 10px 0px;
     }
     .cards{
         margin: 0px 30px;
